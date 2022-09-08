@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import asyncio
-import re
+import re, os
 import sys
 from configparser import ConfigParser
 from pathlib import Path
