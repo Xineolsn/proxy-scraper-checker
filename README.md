@@ -1,6 +1,6 @@
 # proxy-scraper-checker
 
-![Screenshot](https://i.imgur.com/XgiUPPa.png)
+![Screenshot](screenshot.png)
 
 HTTP, SOCKS4, SOCKS5 proxies scraper and checker.
 
